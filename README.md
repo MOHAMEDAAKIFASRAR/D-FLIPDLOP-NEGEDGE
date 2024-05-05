@@ -41,6 +41,9 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **PROGRAM**
 ```
+DEVELOPED BY : MOHAMED AAKIF ASRAR S
+REGISTER NO : 212223240088
+
 module D_FF(D,Clock,reset,Q);
 input D,Clock,reset;
 output reg Q;
